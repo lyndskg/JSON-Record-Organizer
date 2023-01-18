@@ -90,9 +90,3 @@ Upon successful running, your solution should exit with exit code 0.  If the inp
 should exit with code 2, while if the input file is not found, your solution should exit with code 1.  Empty lines
 in the input file should be ignored rather than treated as invalid input.
 
-### Hint
-Use a data structure that maintains a sorted data set and memory efficient.
-
-# ECL-Coding-Challenge
-# JSON-Record-Organizer
-# JSON-Record-Organizer
