@@ -1,0 +1,22 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "ecl coding challenge",
+  "main": "gen.js",
+  "scripts": {
+    "test": "node gen.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyndskg/ECL-Coding-Challenge.git"
+  },
+  "author": "lyndskg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lyndskg/ECL-Coding-Challenge/issues"
+  },
+  "homepage": "https://github.com/lyndskg/ECL-Coding-Challenge#readme",
+  "dependencies": {
+    "chance": "^1.1.9"
+  }
+}
