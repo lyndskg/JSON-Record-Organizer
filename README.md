@@ -6,7 +6,7 @@ highest record IDs ordered by descending score. The output should be well-formed
 resource efficiency of your solution.
 
 ## Detailed Specification
-One of the really fun parts of Emerald is that we work with cutting-edge scientific instrumentation.  One of the instruments
+One of the instruments
 our customers use frequently in the laboratory can analyze samples at a very high rate and generate scores for each sample
 based on the results of the run.  We would like to know the highest scores that were seen over the course of a very large run.
 
